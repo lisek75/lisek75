@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lise
 ============================================================================================================================
 
-Data Scientist | ML/DL · NLP · LLMs · Generative AI
+Data Scientist | ML/DL · Computer Vision · NLP · LLMs · Generative AI
 ------------------------
 
 I build AI-powered solutions with Python that are scalable and maintainable. From traditional machine learning and time series forecasting to computer vision with CNNs and NLP with Transformers and LLMs — I’m passionate about deep learning, generative AI, and full-stack model development.
