@@ -1,48 +1,35 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lise
-============================================================================================================================
+## Hello there!👋
+I'm Lise, a Data Scientist building end-to-end AI solutions with Python—from exploratory analysis in notebooks to scalable systems across ML, Time Series, CV, NLP, Transformers, and LLMs—backed by 10+ years in tech and management roles.
 
-Data Scientist | ML/DL · Computer Vision · NLP · LLMs · Generative AI
-------------------------
+**From Tech Roots to Intelligent Futures 💡🤖**  
+AI isn’t a pivot — it’s the natural evolution of my tech path, blending logic, creativity, and impact.
 
-I build AI-powered solutions with Python that are scalable and maintainable. From traditional machine learning and time series forecasting to computer vision with CNNs and NLP with Transformers and LLMs — I’m passionate about deep learning, generative AI, and full-stack model development.
+**Why AI? 🤖🌐**  
+I realized AI is the future—a game changer that’s transforming industries, accelerating innovation, and enabling intelligent solutions that change how we live and work.
 
-* 🌍  I'm based in France 
-* ✉️  You can contact me at [lisekarimi@gmail.com](mailto:lisekarimi@gmail.com)
+## My Tech Stack 🔧📚 
 
-<a href="https://www.github.com/lisek75" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/lisek75?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+**AI/ML**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
 
-## Skills
-<p align="left">
+**Data & Viz**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=flat-square&logo=python&logoColor=white)
 
-AI / ML / DL / NLP
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="36" height="36" alt="Keras" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="36" height="36" alt="Hugging Face" /></a><a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" width="36" height="36" alt="OpenAI" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="36" height="36" alt="FastAPI" /></a>
+**Notebooks & Apps**
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-3F2EFC?style=flat-square&logo=gradio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-Data Science & Visualization
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" /></a><a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" /></a><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="Scikit-learn" /></a><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="36" height="36" alt="Matplotlib" /></a><a href="https://plotly.com/" target="_blank" rel="noreferrer"><img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="36" height="36" alt="Plotly" /></a><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="36" height="36" alt="Seaborn" /></a>
-
-Notebooks, App Frameworks & IDE
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="36" height="36" alt="Jupyter" /></a><a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="36" height="36" alt="Streamlit" /></a><a href="https://www.gradio.app/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/51063788?s=200&v=4" width="36" height="36" alt="Gradio" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-
-MLOps / Deployment
-<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" alt="GitHub" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-
-Databases
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-
-Big Data & Distributed Computing
-<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="36" height="36" alt="Apache Spark" /></a>
+**MLOps**
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 
-</p>
+## Let’s connect! 📬  
+Feel free to reach out via email or socials below:
 
-
-## Socials
+**Email:** [lisekarimi@gmail.com](mailto:lisekarimi@gmail.com)
 <p align="left">
 <a href="https://www.linkedin.com/in/lise-karimi" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn" /></a><a href="https://github.com/lisek75" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="GitHub" /></a><a href="https://discord.com/users/cryptoliza" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/danielcranney/readme-generator/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" /></a><a href="https://www.kaggle.com/lizk75" target="_blank" rel="noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width="32" height="32" alt="Kaggle" /></a>
-</p>
 
-## Badges
+  ## Badges
 
 <b>My GitHub Stats</b>
 
