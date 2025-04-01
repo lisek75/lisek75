@@ -1,11 +1,9 @@
 ## Hello there!👋
-I'm Lise, a Data Scientist building end-to-end AI solutions with Python—from exploratory analysis in notebooks to scalable systems across ML, Time Series, CV, NLP, Transformers, and LLMs—backed by 10+ years in tech and management roles.
+I'm Lise, a Data Scientist building end-to-end AI solutions with Python—from quick analysis to full production systems using Traditional ML and Deep Learning (Time Series, CV, NLP, LLMs).
 
-**From Tech Roots to Intelligent Futures 💡🤖**  
-AI isn’t a pivot — it’s the natural evolution of my tech path, blending logic, creativity, and impact.
+AI isn’t a shift—it’s the next step. It brings together what I value: clear thinking, creativity, and real impact ✨.
 
-**Why AI? 🤖🌐**  
-I realized AI is the future—a game changer that’s transforming industries, accelerating innovation, and enabling intelligent solutions that change how we live and work.
+AI is the future—reshaping how we work, build, and solve problems 🌍.
 
 ## My Tech Stack 🔧📚 
 
