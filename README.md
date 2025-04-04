@@ -1,5 +1,5 @@
 ## Hello there!👋
-👩‍💻 Data Scientist building end-to-end AI solutions with Python—from exploratory analysis in notebooks to full production systems using Traditional Machine Learning and Deep Learning (for Time Series, Computer Vision, NLP, LLMs and Generative AI).
+I'm Lise, a Data Scientist building end-to-end AI solutions with Python—from exploratory analysis in notebooks to full production systems using Traditional Machine Learning and Deep Learning (for Time Series, Computer Vision, NLP, LLMs and Generative AI).
 
 AI isn’t a career change—it’s the next step in my journey. It reflects what I enjoy most: clear thinking, creativity, and making a real difference ✨. 
 
