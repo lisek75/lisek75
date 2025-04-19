@@ -5,6 +5,8 @@ AI isn’t a career change—it’s the next step in my journey. It reflects wha
 
 I chose AI because it’s the future. It’s changing how we work, how we build things, and how we solve problems around the world 🌍
 
+If any of this resonates with you, let's connect and chat!
+
 ## My Tech Stack 🔧📚 
 
 **AI/ML**
