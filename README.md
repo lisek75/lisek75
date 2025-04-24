@@ -1,11 +1,15 @@
 ## Hello there!👋
 I'm Lise, a Data Scientist building end-to-end AI solutions with Python—from exploratory analysis in notebooks to full production systems using Traditional Machine Learning and Deep Learning (for Time Series, Computer Vision, NLP, LLMs and Generative AI).
 
-AI isn’t a career change—it’s the next step in my journey. It reflects what I enjoy most: clear thinking, creativity, and making a real difference ✨. 
+AI isn’t a career change—it’s the next step in my journey. It reflects what I enjoy most: clear thinking, creativity, and making a real difference. 
 
-I chose AI because it’s the future. It’s changing how we work, how we build things, and how we solve problems around the world 🌍
+I chose AI because it’s the future. It’s changing how we work, how we build things, and how we solve problems around the world.
 
 If any of this resonates with you, let's connect and chat!
+
+**Email:** [lisekarimi@gmail.com](mailto:lisekarimi@gmail.com)
+<p align="left">
+<a href="https://www.linkedin.com/in/lise-karimi" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn" /></a><a href="https://github.com/lisek75" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="GitHub" /></a><a href="https://discord.com/users/cryptoliza" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/danielcranney/readme-generator/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" /></a><a href="https://www.kaggle.com/lizk75" target="_blank" rel="noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width="32" height="32" alt="Kaggle" /></a>
 
 ## My Tech Stack 🔧📚 
 
@@ -21,13 +25,6 @@ If any of this resonates with you, let's connect and chat!
 **MLOps**
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-
-## Let’s connect! 📬  
-Feel free to reach out via email or socials below:
-
-**Email:** [lisekarimi@gmail.com](mailto:lisekarimi@gmail.com)
-<p align="left">
-<a href="https://www.linkedin.com/in/lise-karimi" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn" /></a><a href="https://github.com/lisek75" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="GitHub" /></a><a href="https://discord.com/users/cryptoliza" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/danielcranney/readme-generator/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" /></a><a href="https://www.kaggle.com/lizk75" target="_blank" rel="noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width="32" height="32" alt="Kaggle" /></a>
 
   ## Badges
 
